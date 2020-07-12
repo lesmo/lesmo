@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lesmo/lesmo/master/hello.png" alt="Hello" />
+<img src="https://raw.githubusercontent.com/lesmo/lesmo/master/hello-sinuhe.png" alt="Hello" />
 
 <p align="center">
  Find me at:
