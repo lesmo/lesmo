@@ -4,8 +4,8 @@
  Find me at:
 </p>
 <p align="center">
-  <a href="https://twitter.com/lesmocasanova" target="_blank">
-    <img src="https://img.shields.io/badge/-@lesmocasanova-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/lesmonova" target="_blank">
+    <img src="https://img.shields.io/badge/-@lesmonova-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:lesmo@lesmo.com.mx" target="_blank">
     <img src="https://img.shields.io/badge/-lesmo@lesmo.com.mx-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
